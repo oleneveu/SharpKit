@@ -5,14 +5,11 @@ C# to JavaScript Compiler
 
 This repository contains the complete, fully functional source code for SharpKit cross-compiler.
 
-Website: http://sharpkit.net
-
 Library definitions, JsClr framework and other useful libraries is at:
 https://github.com/SharpKit/SharpKit-SDK
 
-##### License
-SharpKit is licensed under GPL. It has all features and has no restrictions. For commercial licenses please refer to http://sharpkit.net 
-
+##### Contributing
+Maybe you see there are less commits recently. But you can belive us, sharpkit is still activly used in lots of projects. If you want to contribute, feel free to send us a patch of request a project membership.
 
 ##### Building
 An installer is available here: https://github.com/SharpKit/SharpKit/releases, to build from source code follow this:
